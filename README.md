@@ -1,4 +1,4 @@
-<h2 align="left">Olá 👋! Meu nome é Arnald Weslen... e eu um Desenvolvedor</h2>
+<h2 align="left">Olá 👋! Meu nome é Arnald Weslen... e eu sou um Desenvolvedor</h2>
 
 ###
 
